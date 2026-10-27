@@ -1,0 +1,8 @@
+GITHUB PAGES DEPLOYMENT CHECKLIST
+[ ] Create repository
+[ ] Upload index.html, README.md, .nojekyll to root
+[ ] Settings > Pages > Deploy from a branch > main > /(root)
+[ ] Wait for GitHub Pages deployment
+[ ] Open the URL in desktop and mobile browsers
+[ ] Test check-in, navigation, practice, final submission, certificate, record download, reset
+[ ] Remind students that records are saved on their own device only
